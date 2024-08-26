@@ -1,0 +1,65 @@
+#image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    #header{
+        background-color: skyblue;
+        padding: 20px 40px;
+        text-align: center;
+        border-radius: 10px;
+    }
+    .navbar{
+        background-color: blueviolet;
+        display: block; 
+        padding-top: 50px;
+        padding-bottom: 50px;
+        text-align: right;
+    }
+    .home{
+        color: blue;
+        background-color: white;
+        text-decoration: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-right: 20px;
+        margin-left: 20px;
+        /*padding: 10px 5px 10px 5px;*/
+        /*margin: 20px 20px;*/
+    }
+    .section1{
+        background-color: skyblue;
+        display: inline-block;
+        box-sizing: border-box;
+        width: 30%;
+        margin-right: 3%;
+        margin-top: 5%;
+        margin-left: 2%;
+        margin-bottom: 5%;
+    }
+    .section2{
+        background-color: lightgreen;
+        display: inline-block;
+        box-sizing: border-box;
+        width: 30%;
+        margin-right: 3%;
+        margin-top: 3%;
+        margin-bottom: 5%;
+    }
+    .section3{
+        background-color: orange;
+        display: inline-block;
+        box-sizing: border-box;
+        width: 30%;
+        margin-top: 3%;
+        margin-bottom: 5%;
+    }
+    .para{
+        word-spacing: 10px;
+        letter-spacing: 5px;
+    }
+    .img{
+    width: 50px;
+    margin-right: 50%;
+    }
